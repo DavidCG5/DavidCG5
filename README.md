@@ -1,6 +1,8 @@
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5wd2R6ZTFnMWZieHBrc3F3cXA4eno5dDAybWt0cHB0eGx1dGRvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="100"/> Welcome to my GitHub 👋
-
-![Banner de David Cortes](github-header-image.png)
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5wd2R6ZTFnMWZieHBrc3F3cXA4eno5dDAybWt0cHB0eGx1dGRvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="100"/>
+  <h1>Bienvenido al GitHub de David Cortes 👋</h1>
+  <img src="github-header-image.png" alt="Banner de David Cortes"/>
+</div>
 
 ## About me
 Hi, I'm David Cortes, a software developer with a passion for front-end development and a knack for creating user-friendly interfaces. With a strong foundation in various frameworks and tools, I'm dedicated to building efficient and scalable web applications.
