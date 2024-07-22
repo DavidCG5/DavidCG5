@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5wd2R6ZTFnMWZieHBrc3F3cXA4eno5dDAybWt0cHB0eGx1dGRvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="100"/>
-  <h1>Bienvenido al GitHub de David Cortes 👋</h1>
+  <h1>Welcome to my GitHub 👋</h1>
   <img src="github-header-image.png" alt="Banner de David Cortes"/>
 </div>
 
