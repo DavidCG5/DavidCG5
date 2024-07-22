@@ -1,5 +1,8 @@
-## Hi there 👋
+##   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5wd2R6ZTFnMWZieHBrc3F3cXA4eno5dDAybWt0cHB0eGx1dGRvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="100"/> Bienvenido al GitHub de David Cortes 👋
 
+![Banner de David Cortes](github-header-image.png)
+
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 <!--
 **DavidCG5/DavidCG5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)  
